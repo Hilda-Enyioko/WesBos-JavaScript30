@@ -1,7 +1,7 @@
 # WesBos-JavaScript30
 WesBos Vanilla JavaScript 30 Day Challenge
 
-![WesBos JavaScript 30](README\JS3-social-share.jpeg)
+![WesBos JavaScript 30](./JS3-social-share.jpeg)
 
 [WesBos](https://github.com/wesbos) Vanilla JavaScript 30 Day Challenge is one of the best ways to become conversant with JavaScript, growing your skills from beginner to intermediate.
 
