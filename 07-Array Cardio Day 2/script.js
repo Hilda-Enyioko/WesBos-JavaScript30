@@ -38,4 +38,4 @@
   console.log(index);
   // delete the comment with the ID of 823423
   comments.splice(index, 1);
-  console.log(comments);
+  console.table(comments);
