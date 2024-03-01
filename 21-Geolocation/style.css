@@ -39,4 +39,9 @@ h1 {
 .units {
   font-size: 15px;
 }
+
+h2{
+  font-size: 25px;
+  color: red;
+}
 /*Compass: https://thenounproject.com/search/?q=compass&i=592352*/
