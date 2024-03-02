@@ -25,7 +25,7 @@ html {
     transition: transform 0.5s;
   }
 
-  body.fixed-nav .site-wrap {
+   body.fixed-nav .site-wrap {
     transform: scale(1);
   }
 
