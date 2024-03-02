@@ -22,3 +22,9 @@ html {
   .three {
     background: coral;
   }
+
+  button{
+    width: 20%;
+    height: 25px;
+    color: grey;
+  }
