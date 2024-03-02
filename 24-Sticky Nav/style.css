@@ -24,6 +24,15 @@ html {
     transform: scale(0.98);
     transition: transform 0.5s;
   }
+
+  body.fixed-nav .site-wrap {
+    transform: scale(1);
+  }
+
+  body.fixed-nav nav {
+    position: fixed;
+    box-shadow: 0 5px 0 rgba(0,0,0,0.1);
+  }
   
   header {
     text-align: center;
